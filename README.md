@@ -24,7 +24,7 @@ Install with npm i
 *   Go to http://localhost:3001/, create an account and have fun
 
 ## Deployment
-Deployed on [Heroku]()
+Deployed on [Heroku](https://uta-tech14blog.herokuapp.com/)
 
 
 ## Credits
